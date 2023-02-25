@@ -20,9 +20,9 @@ var show = function () {
     };
 
 function Huy() {
-    window.location.href="userdn.htm";
+    window.location.href="index.htm";
 }
 
 function Dat(){
-    window.location.href="userdn.htm";
+    window.location.href="index.htm";
 }
